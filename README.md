@@ -9,6 +9,8 @@ Welcome to the Podcast Workshop repository! This repository contains all the res
 - [Podcast MP3](#podcast-mp3)
 - [Assessment Check-ins](#assessment-check-ins)
 - [Peer Review Guidance](#peer-review-guidance)
+- [PowerPoint file](#powerpoint-file)
+- [Caseys Reflections on the Podcast](#caseys-reflections-on-the-podcast)
 - [Contact](#contact)
 
 ## About the Workshop
@@ -32,6 +34,18 @@ The following document contains sections relating to (a) tips & resources for cr
 The document linked below was generated to facilitate a constructive and productive peer review process. It is based on the rubric created to evaluate the I/O Psychology Master's track and is therefore adopted to this (and several other) assessment in the course. I would recommend that you create a rubric that fits your needs, potentially enlisting the support of AI tools (e.g., ChatGPT, Microsoft Copilot) to aid in generating the rubric and guiding questions. 
 
 - [Peer Review Guidance & Rubric](https://github.com/CaseyGio/Podcast/blob/main/Podcast%20peer%20review%20instructions%20and%20rubric.docx)
+
+### PowerPoint File
+
+The full PowerPoint presentation used for the talk is also provided in this GitHub repository. 
+
+- [PowerPoint File](https://github.com/CaseyGio/Podcast/blob/main/Student%20podcasts.pptx)
+
+### Caseys Reflections on the Podcast
+
+If you are also interested, I wrote a little document to walk my students through my own process. It helps explain what software I used, how I identified the topics, what parts of sound editing I did, etc. 
+
+- [Casey's reflections](https://github.com/CaseyGio/Podcast/blob/main/Caseys%20reflections%20on%20podcasting.md)
 
 ## Contact
 
