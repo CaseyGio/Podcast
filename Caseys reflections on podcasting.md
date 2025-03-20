@@ -1,6 +1,3 @@
-Here's your document converted into Markdown format, with some added elements to make it more engaging:
-
-```markdown
 # Overview
 
 It felt wrong to require you all to create something that I had not created myself. With help from Dr. Moses Rivera, I created a podcast example that *almost* exactly meets the criteria for our assigned class podcasts. I've also shared some information below about what I do to create the podcast.
@@ -58,6 +55,3 @@ I thought this step was going to be the hardest. It took me about two hours from
 It was a fun experience and it allowed me to gain some skills that I didn't have (e.g., sound editing). I am mostly content with the final product. It's hard to hear myself talk and there are a number of small details about the script or things I said that I could spend a lifetime revising. That's fine, I was not striving for perfection. I wanted to make an example podcast that's on a similar level as what I would expect from you (e.g., production-wise).
 
 That's it. Thanks for coming to my Ted Talk.
-```
-
-Feel free to copy this Markdown content into your GitHub repository. If you need any further adjustments or additions, let me know!
