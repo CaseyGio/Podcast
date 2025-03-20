@@ -25,7 +25,7 @@ The [podcast MP3 file](path/to/your/podcast.mp3) is available in this repository
 
 Instructions for the podcast assessment check-ins are provided in the following document:
 
-- [Podcast Assessment Check-ins Instructions](path/to/assessment_checkins_instructions.md)
+- [Podcast Assessment Check-ins Instructions](Podcast/Creating podcast guide steps and instructions.docx)
 
 ### Peer Review Guidance
 
