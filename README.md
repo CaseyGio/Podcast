@@ -19,19 +19,19 @@ This workshop is designed to help participants learn about podcasting, including
 
 ### Podcast MP3
 
-The [podcast MP3 file](path/to/your/podcast.mp3) is available in this repository. You can download and listen to it at your convenience.
+The [podcast recording & MP3 file](https://audio.com/casey-giordano/audio/personnel-selection-podcast) is available through the Audio.com website. The podcast was edited and published through Audacity and this is the final version. Roughly 25 minutes of recorded content was cut to just under 18 min. If you are brave enough to listen to the recording, you can listen or even download it at your convenience. 
 
 ### Assessment Check-ins
 
-Instructions for the podcast assessment check-ins are provided in the following document:
+The following document contains sections relating to (a) tips & resources for creating a podcast and (b) all the instructions and guidance for each check-in of the podcast throughout the semester. 
 
-- [Podcast Assessment Check-ins Instructions](PK)
+- [Podcast Assessment Check-ins Instructions & general resources for podcasts](https://github.com/CaseyGio/Podcast/blob/main/Creating%20podcast%20guide%20steps%20and%20instructions.docx))
 
 ### Peer Review Guidance
 
-To ensure a constructive and productive peer review process, please refer to the peer review guidance and rubric document:
+The document linked below was generated to facilitate a constructive and productive peer review process. It is based on the rubric created to evaluate the I/O Psychology Master's track and is therefore adopted to this (and several other) assessment in the course. I would recommend that you create a rubric that fits your needs, potentially enlisting the support of AI tools (e.g., ChatGPT, Microsoft Copilot) to aid in generating the rubric and guiding questions. 
 
-- [Peer Review Guidance & Rubric](path/to/peer_review_guidance_and_rubric.md)
+- [Peer Review Guidance & Rubric](https://github.com/CaseyGio/Podcast/blob/main/Podcast%20peer%20review%20instructions%20and%20rubric.docx)
 
 ## Contact
 
