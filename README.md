@@ -1,6 +1,6 @@
 # Podcast Workshop Resources
 
-Welcome to the Podcast Workshop repository! This repository contains all the resources you need for the workshop, including the podcast MP3 file, instructions for podcast assessment check-ins, and guidance for peer reviews.
+Welcome to the Podcast Workshop repository! This repository contains all the resources you need for the workshop, including the podcast MP3 file, instructions for podcast assessment check-ins, and guidance for peer reviews. The contents include two versions of this talk: Out Of The Box Teaching Workshop and a longer Brownbag talk.  
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@ Welcome to the Podcast Workshop repository! This repository contains all the res
 
 ## About the Workshop
 
-This workshop is designed to help participants learn about podcasting, including creating, editing, and publishing podcasts. Throughout the brown bag talk, participants will learn about and engage in small discussions regarding the use of podcasts in their own courses. 
+This workshop is designed to help participants learn about podcasting, including creating, editing, and publishing podcasts. Throughout the workshop, participants will learn about and engage in small discussions regarding the use of podcasts in their own courses. 
 
 ## Resources
 
