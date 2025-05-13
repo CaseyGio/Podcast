@@ -35,11 +35,15 @@ The document linked below was generated to facilitate a constructive and product
 
 - [Peer Review Guidance & Rubric](https://github.com/CaseyGio/Podcast/blob/main/Podcast%20peer%20review%20instructions%20and%20rubric.docx)
 
-### PowerPoint File
+### PowerPoint Files
 
-The full PowerPoint presentation used for the talk is also provided in this GitHub repository. 
+The PowerPoint presentation for the HHMI Out Of The Box Teaching Workshop
 
-- [PowerPoint File](https://github.com/CaseyGio/Podcast/blob/main/Student%20podcasts.pptx)
+- [OOTB PowerPoint File](https://github.com/CaseyGio/Podcast/blob/main/Powerful%20Points%20not%20PowerPoints.pptx)
+
+The PowerPoint presentation used for the College of Sciences brownbag talk is also provided in this GitHub repository. 
+
+- [Brownbag PowerPoint File](https://github.com/CaseyGio/Podcast/blob/main/Student%20podcasts.pptx)
 
 ### Caseys Reflections on the Podcast
 
